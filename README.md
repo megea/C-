@@ -1,2 +1,2 @@
 # learning_cpp
-learning C++ primer plus
+Learning C++ primer plus and recording it.
