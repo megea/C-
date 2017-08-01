@@ -1,2 +1,2 @@
 # learning_cpp
-learning C++
+learning C++ primer plus
